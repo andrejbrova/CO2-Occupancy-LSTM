@@ -1,2 +1,1 @@
-"# CO2-Occupancy-LSTM" 
-"# CO2-Occupancy-GRU" 
+"# CO2-Occupancy-LSTM"  
